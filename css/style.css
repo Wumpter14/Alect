@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+.gradtext {
+    background: -webkit-linear-gradient(#ff5050, #50ff7c, #50ebff);
+    -webkit-text-fill-color: transparent;
+}
+
+.alink {
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    padding-right: 10px;
+    color: black;
+}
+
+.productpricetag {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+}
+
+.container {
+    background-color: rgb(240, 240, 240);
+    padding-left: 50px;
+    padding-right: 50px;
+   border-radius: 20px;
+}
+
+.productlink {
+    font-family: 'Inter', sans-serif;
+    font-size: 15.5px;
+    text-decoration: none;
+    color: rgb(35, 35, 255);
+}
+
+.containertitle {
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 700;
+}
+
+.containerdescription {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500; 
+}
